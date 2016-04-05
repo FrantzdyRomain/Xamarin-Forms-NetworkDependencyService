@@ -5,7 +5,7 @@
 Xamarin Forms-Network Dependency Service tutorial
 ============
 
-View the online Tutorial: 
+View the online Tutorial: https://medium.com/@frantzdyromain/xamarin-forms-device-network-dependency-service-6e4f43f764ed#.6l633m9nt
 
 
 Dependencies
