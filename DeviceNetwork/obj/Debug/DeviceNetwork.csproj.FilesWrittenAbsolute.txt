@@ -1,0 +1,11 @@
+/Users/lvx0shp/Projects/DeviceNetwork/DeviceNetwork/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/lvx0shp/Projects/DeviceNetwork/DeviceNetwork/obj/Debug/DeviceNetwork.MainPage.xaml
+/Users/lvx0shp/Projects/DeviceNetwork/DeviceNetwork/obj/Debug/MainPage.xaml.g.cs
+/Users/lvx0shp/Projects/DeviceNetwork/DeviceNetwork/bin/Debug/DeviceNetwork.dll.mdb
+/Users/lvx0shp/Projects/DeviceNetwork/DeviceNetwork/bin/Debug/DeviceNetwork.dll
+/Users/lvx0shp/Projects/DeviceNetwork/DeviceNetwork/obj/Debug/DeviceNetwork.dll
+/Users/lvx0shp/Projects/DeviceNetwork/DeviceNetwork/obj/Debug/DeviceNetwork.dll.mdb
+/Users/lvx0shp/Projects/DeviceNetwork/DeviceNetwork/bin/Debug/Xamarin.Forms.Core.dll
+/Users/lvx0shp/Projects/DeviceNetwork/DeviceNetwork/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/lvx0shp/Projects/DeviceNetwork/DeviceNetwork/bin/Debug/Microsoft.Threading.Tasks.dll
+/Users/lvx0shp/Projects/DeviceNetwork/DeviceNetwork/bin/Debug/Microsoft.Threading.Tasks.Extensions.dll

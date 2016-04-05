@@ -1,0 +1,14 @@
+/Users/lvx0shp/Projects/DeviceNetwork/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/lvx0shp/Projects/DeviceNetwork/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/lvx0shp/Projects/DeviceNetwork/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/lvx0shp/Projects/DeviceNetwork/iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/lvx0shp/Projects/DeviceNetwork/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/lvx0shp/Projects/DeviceNetwork/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/lvx0shp/Projects/DeviceNetwork/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/lvx0shp/Projects/DeviceNetwork/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/lvx0shp/Projects/DeviceNetwork/iOS/bin/iPhoneSimulator/Debug/DeviceNetwork.dll
+/Users/lvx0shp/Projects/DeviceNetwork/iOS/bin/iPhoneSimulator/Debug/DeviceNetwork.dll.mdb
+/Users/lvx0shp/Projects/DeviceNetwork/iOS/bin/iPhoneSimulator/Debug/DeviceNetwork.iOS.exe.mdb
+/Users/lvx0shp/Projects/DeviceNetwork/iOS/bin/iPhoneSimulator/Debug/DeviceNetwork.iOS.exe
+/Users/lvx0shp/Projects/DeviceNetwork/iOS/obj/iPhoneSimulator/Debug/DeviceNetwork.iOS.exe
+/Users/lvx0shp/Projects/DeviceNetwork/iOS/obj/iPhoneSimulator/Debug/DeviceNetwork.iOS.exe.mdb
